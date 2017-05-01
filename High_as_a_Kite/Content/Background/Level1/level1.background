@@ -1,0 +1,27 @@
+[Textures]
+Background\Level1\lvl1_bk1
+Background\Level1\lvl1_bk2
+Background\Level1\lvl1_bk3
+Background\Level1\lvl1_bk4
+Background\Level1\lvl1_bk5
+Background\Level1\lvl1_bk6
+Background\Level1\lvl1_bk7
+Background\Level1\lvl1_bk8
+Background\Level1\lvl1_bk9
+Background\Level1\lvl1_bk10
+Background\Level1\lvl1_bk11
+Background\Level1\lvl1_bk12
+Background\Level1\lvl1_bk13
+Background\Level1\lvl1_bk14
+Background\Level1\lvl1_bk15
+Background\Level1\lvl1_bk16
+Background\Level1\lvl1_bk17
+Background\Level1\lvl1_bk18
+
+[Layout]
+0 1 2
+3 4 5
+6 7 8
+9 10 11
+12 13 14
+15 16 17

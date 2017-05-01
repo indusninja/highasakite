@@ -1,0 +1,15 @@
+[SplashScreen]
+SplashScreens\splashScreen
+4000
+
+[ControlsScreen]
+SplashScreens\controlsScreen
+1000
+
+[WinScreen]
+SplashScreens\winScreen
+1000
+
+[LooseScreen]
+SplashScreens\failScreen
+1000

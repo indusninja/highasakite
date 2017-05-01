@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "High_as_a_Kite", "High_as_a_Kite\High_as_a_Kite.csproj", "{0CDE7220-97C5-48D0-90EA-0CB7EF009B6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "High_as_a_KiteContent", "High_as_a_Kite\Content\High_as_a_KiteContent.contentproj", "{69DEB7BE-7A64-4D0A-9B0E-BA608E73C37D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CDE7220-97C5-48D0-90EA-0CB7EF009B6E}.Debug|x86.ActiveCfg = Debug|x86
+		{0CDE7220-97C5-48D0-90EA-0CB7EF009B6E}.Debug|x86.Build.0 = Debug|x86
+		{0CDE7220-97C5-48D0-90EA-0CB7EF009B6E}.Release|x86.ActiveCfg = Release|x86
+		{0CDE7220-97C5-48D0-90EA-0CB7EF009B6E}.Release|x86.Build.0 = Release|x86
+		{69DEB7BE-7A64-4D0A-9B0E-BA608E73C37D}.Debug|x86.ActiveCfg = Debug|x86
+		{69DEB7BE-7A64-4D0A-9B0E-BA608E73C37D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
