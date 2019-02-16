@@ -1,4 +1,4 @@
-# highasakite
+# High As A Kite
 This is a game about flying a kite, with wiimotes. The aim for the player is to get it real high.
 
 ## Setup Instructions
